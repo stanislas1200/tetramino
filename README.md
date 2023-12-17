@@ -3,14 +3,14 @@
 </h1>
 
 ## 📝 Table of contents
-- [Table of contents](#📝-table-of-contents)
-- [About the project](#💡-about-the-project)
-- [Getting started](#🏁-getting-started)
+- [Table of contents](#-table-of-contents)
+- [About the project](#-about-the-project)
+- [Getting started](#-getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#📖-usage)
-- [Authors](#👤-authors)
-- [License](#📜-license)
+- [Usage](#-usage)
+- [Authors](#-authors)
+- [License](#-license)
 
 ## 💡 About the project
 This project is a tetramino game made in python for the course of algorithmic and programming at the ULB.
