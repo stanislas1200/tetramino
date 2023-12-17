@@ -33,7 +33,7 @@ python3 tetramino.py carte_1.txt
 ![Game Image](./images/Capture1.PNG)
 
 ## 👤 Authors
-- [**Godin Stanislas**]() - *Developer*
+- [**Godin Stanislas**](https://github.com/stanislas1200) - *Developer*
 
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
